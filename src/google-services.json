@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "640811202734",
+    "project_id": "duck-chatapp",
+    "storage_bucket": "duck-chatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640811202734:android:966e41804e78804925153f",
+        "android_client_info": {
+          "package_name": "com.coretech.duck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640811202734-v3s6pc37mt6iqccofsctj77nekba299j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhs2kCFe9IXWXiQ7c8pQxpoS3GX1dlDhE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640811202734-v3s6pc37mt6iqccofsctj77nekba299j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

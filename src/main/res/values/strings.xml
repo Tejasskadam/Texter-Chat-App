@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Texter</string>
+    <string name="name">name</string>
+    <string name="status">status</string>
+    <string name="string_name">name</string>
+    <string name="type_your_text">Type your text..</string>
+    <string name="auto_login">Auto Login</string>
+</resources>

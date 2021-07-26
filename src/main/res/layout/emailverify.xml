@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="300dp"
+    android:layout_gravity="center"
+    android:background="@drawable/internetshape"
+    android:layout_height="250dp">
+
+    <TextView
+        android:id="@+id/mail"
+        android:layout_width="250dp"
+        android:layout_height="100dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="40dp"
+        android:fontFamily="@font/baloo_thambi"
+        android:gravity="center"
+        android:text="Check your Email and Verify"
+        android:textColor="#070707"
+        android:textSize="30dp" />
+
+    <Button
+        android:id="@+id/ok"
+        android:layout_width="80dp"
+        android:layout_height="50dp"
+        android:text="Ok"
+        android:layout_below="@+id/mail"
+        android:layout_marginLeft="115dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/shape2"/>
+
+</RelativeLayout>
